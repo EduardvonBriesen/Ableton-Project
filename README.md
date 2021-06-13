@@ -1,10 +1,10 @@
+# Ableton Project
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# Ableton Project
+### Usage
+Created with `ableton-git`. Please use [ableton-git](https://github.com/clintburgos/ableton-git) to clone this project ✨
 
-Created with `ableton-git`.
-
-Please use [ableton-git](https://github.com/clintburgos/ableton-git) to clone this project ✨
+### Plugins
 
 
 This work is licensed under a
