@@ -3,12 +3,12 @@
 
 This is a small collection of Abelton projects, resulting from me trying to produce music. 
 I mainly use this repository for versioning and backup.
-You can have listen in the [tracks](https://github.com/EduardvonBriesen/Ableton-Project/tree/main/Tracks) folder or on my [soundcloud](https://soundcloud.com/eduard-von-briesen).
+You can have listen in the [tracks](https://github.com/EduardvonBriesen/Ableton-Project/tree/main/Tracks) folder or on my [soundcloud](https://soundcloud.com/eduard-von-briesen)	 :headphones:
 
-## Usage
-Created with `ableton-git`. Please use [ableton-git](https://github.com/clintburgos/ableton-git) to clone this project ✨
+## Usage :sparkles:
+Created with `ableton-git`. Please use [ableton-git](https://github.com/clintburgos/ableton-git) to clone this project.
 
-## Plugins
+## Plugins :electric_plug:
 The following plugins were used in most of the projects.
 - [TAL-Rverb-2](https://tal-software.com/products/tal-reverb)
 - [Arturia - Analog Lab 4](https://www.arturia.com/products/analoglab/resources)
