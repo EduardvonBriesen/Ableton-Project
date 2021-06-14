@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ableton MajorVersion="5" MinorVersion="10.0_377" SchemaChangeCount="5" Creator="Ableton Live 10.1.35" Revision="a4cc5da58a12b2430753133883a25ad12aa979b7">
 	<LiveSet>
-		<NextPointeeId Value="23646" />
+		<NextPointeeId Value="23055" />
 		<OverwriteProtectionNumber Value="2561" />
 		<LomId Value="0" />
 		<LomIdView Value="0" />
@@ -90,7 +90,7 @@
 						</On>
 						<ParametersListWrapper LomId="0" />
 						<LastSelectedTimeableIndex Value="2" />
-						<LastSelectedClipEnvelopeIndex Value="1" />
+						<LastSelectedClipEnvelopeIndex Value="2" />
 						<LastPresetRef>
 							<Value />
 						</LastPresetRef>
@@ -316,93 +316,6 @@
 						<ClipTimeable>
 							<ArrangerAutomation>
 								<Events>
-									<MidiClip Id="3" Time="6">
-										<LomId Value="0" />
-										<LomIdView Value="0" />
-										<CurrentStart Value="6" />
-										<CurrentEnd Value="8" />
-										<Loop>
-											<LoopStart Value="0" />
-											<LoopEnd Value="4" />
-											<StartRelative Value="2" />
-											<LoopOn Value="true" />
-											<OutMarker Value="4" />
-											<HiddenLoopStart Value="0" />
-											<HiddenLoopEnd Value="4" />
-										</Loop>
-										<Name Value="" />
-										<Annotation Value="" />
-										<ColorIndex Value="16" />
-										<LaunchMode Value="0" />
-										<LaunchQuantisation Value="0" />
-										<TimeSignature>
-											<TimeSignatures>
-												<RemoteableTimeSignature Id="0">
-													<Numerator Value="4" />
-													<Denominator Value="4" />
-													<Time Value="0" />
-												</RemoteableTimeSignature>
-											</TimeSignatures>
-										</TimeSignature>
-										<Envelopes>
-											<Envelopes />
-										</Envelopes>
-										<ScrollerTimePreserver>
-											<LeftTime Value="2.0003795786676788" />
-											<RightTime Value="3.9999999999999996" />
-										</ScrollerTimePreserver>
-										<TimeSelection>
-											<AnchorTime Value="4" />
-											<OtherTime Value="2" />
-										</TimeSelection>
-										<Legato Value="false" />
-										<Ram Value="false" />
-										<GrooveSettings>
-											<GrooveId Value="-1" />
-										</GrooveSettings>
-										<Disabled Value="false" />
-										<VelocityAmount Value="0" />
-										<FollowTime Value="4" />
-										<FollowActionA Value="0" />
-										<FollowActionB Value="0" />
-										<FollowChanceA Value="1" />
-										<FollowChanceB Value="0" />
-										<Grid>
-											<FixedNumerator Value="1" />
-											<FixedDenominator Value="16" />
-											<GridIntervalPixel Value="20" />
-											<Ntoles Value="2" />
-											<SnapToGrid Value="true" />
-											<Fixed Value="false" />
-										</Grid>
-										<FreezeStart Value="0" />
-										<FreezeEnd Value="0" />
-										<IsWarped Value="true" />
-										<Notes>
-											<KeyTracks>
-												<KeyTrack Id="54">
-													<Notes>
-														<MidiNoteEvent Time="2" Duration="1" Velocity="100" OffVelocity="64" IsEnabled="true" NoteId="1" />
-														<MidiNoteEvent Time="3" Duration="1" Velocity="100" OffVelocity="64" IsEnabled="true" NoteId="2" />
-													</Notes>
-													<MidiKey Value="57" />
-												</KeyTrack>
-											</KeyTracks>
-											<PerNoteEventStore>
-												<EventLists />
-											</PerNoteEventStore>
-											<NoteIdGenerator>
-												<NextId Value="5" />
-											</NoteIdGenerator>
-										</Notes>
-										<BankSelectCoarse Value="-1" />
-										<BankSelectFine Value="-1" />
-										<ProgramChange Value="-1" />
-										<NoteEditorFoldInZoom Value="-1" />
-										<NoteEditorFoldInScroll Value="-1" />
-										<NoteEditorFoldOutZoom Value="905" />
-										<NoteEditorFoldOutScroll Value="-386" />
-									</MidiClip>
 									<MidiClip Id="1" Time="8">
 										<LomId Value="0" />
 										<LomIdView Value="0" />
@@ -1057,9 +970,9 @@
 												<HasRelativePath Value="true" />
 												<RelativePathType Value="5" />
 												<RelativePath>
-													<RelativePathElement Id="12" Dir="Devices" />
-													<RelativePathElement Id="13" Dir="Instruments" />
-													<RelativePathElement Id="14" Dir="Simpler" />
+													<RelativePathElement Id="9" Dir="Devices" />
+													<RelativePathElement Id="10" Dir="Instruments" />
+													<RelativePathElement Id="11" Dir="Simpler" />
 												</RelativePath>
 												<Name Value="" />
 												<Type Value="1" />
@@ -1098,9 +1011,9 @@
 													<HasRelativePath Value="true" />
 													<RelativePathType Value="5" />
 													<RelativePath>
-														<RelativePathElement Id="12" Dir="Devices" />
-														<RelativePathElement Id="13" Dir="Instruments" />
-														<RelativePathElement Id="14" Dir="Simpler" />
+														<RelativePathElement Id="9" Dir="Devices" />
+														<RelativePathElement Id="10" Dir="Instruments" />
+														<RelativePathElement Id="11" Dir="Simpler" />
 													</RelativePath>
 													<Name Value="" />
 													<Type Value="1" />
@@ -1130,9 +1043,9 @@
 														<HasRelativePath Value="true" />
 														<RelativePathType Value="5" />
 														<RelativePath>
-															<RelativePathElement Id="12" Dir="Devices" />
-															<RelativePathElement Id="13" Dir="Instruments" />
-															<RelativePathElement Id="14" Dir="Simpler" />
+															<RelativePathElement Id="9" Dir="Devices" />
+															<RelativePathElement Id="10" Dir="Instruments" />
+															<RelativePathElement Id="11" Dir="Simpler" />
 														</RelativePath>
 														<Name Value="" />
 														<Type Value="1" />
@@ -1216,19 +1129,19 @@
 														<HasRelativePath Value="true" />
 														<RelativePathType Value="3" />
 														<RelativePath>
-															<RelativePathElement Id="16" Dir="Samples" />
-															<RelativePathElement Id="17" Dir="Processed" />
-															<RelativePathElement Id="18" Dir="Crop" />
+															<RelativePathElement Id="13" Dir="Samples" />
+															<RelativePathElement Id="14" Dir="Processed" />
+															<RelativePathElement Id="15" Dir="Crop" />
 														</RelativePath>
 														<Name Value="Cougar Town - Intro [2021-03-06 201932].wav" />
 														<Type Value="1" />
 														<Data>
 															43003A005C00550073006500720073005C00650076006200720069005C004D007500730069006300
-															5C00410062006C00650074006F006E002D00500072006F006A006500630074005C00500072006F00
-															6A006500630074005C00530061006D0070006C00650073005C00500072006F006300650073007300
-															650064005C00430072006F0070005C0043006F007500670061007200200054006F0077006E002000
-															2D00200049006E00740072006F0020005B0032003000320031002D00300033002D00300036002000
-															3200300031003900330032005D002E007700610076000000
+															5C00410062006C00650074006F006E002D00500072006F006A006500630074005C00530061006D00
+															70006C00650073005C00500072006F006300650073007300650064005C00430072006F0070005C00
+															43006F007500670061007200200054006F0077006E0020002D00200049006E00740072006F002000
+															5B0032003000320031002D00300033002D003000360020003200300031003900330032005D002E00
+															7700610076000000
 														</Data>
 														<RefersToFolder Value="false" />
 														<SearchHint>
@@ -2968,7 +2881,7 @@
 						</On>
 						<ParametersListWrapper LomId="0" />
 						<LastSelectedTimeableIndex Value="2" />
-						<LastSelectedClipEnvelopeIndex Value="0" />
+						<LastSelectedClipEnvelopeIndex Value="1" />
 						<LastPresetRef>
 							<Value />
 						</LastPresetRef>
@@ -3194,7 +3107,7 @@
 						<ClipTimeable>
 							<ArrangerAutomation>
 								<Events>
-									<MidiClip Id="6" Time="8">
+									<MidiClip Id="0" Time="8">
 										<LomId Value="0" />
 										<LomIdView Value="0" />
 										<CurrentStart Value="8" />
@@ -3227,7 +3140,7 @@
 										</Envelopes>
 										<ScrollerTimePreserver>
 											<LeftTime Value="0" />
-											<RightTime Value="2.9426742429691433" />
+											<RightTime Value="16" />
 										</ScrollerTimePreserver>
 										<TimeSelection>
 											<AnchorTime Value="15.625" />
@@ -3354,7 +3267,7 @@
 										<ProgramChange Value="-1" />
 										<NoteEditorFoldInZoom Value="-1" />
 										<NoteEditorFoldInScroll Value="-1" />
-										<NoteEditorFoldOutZoom Value="467" />
+										<NoteEditorFoldOutZoom Value="445" />
 										<NoteEditorFoldOutScroll Value="0" />
 									</MidiClip>
 								</Events>
@@ -3918,9 +3831,9 @@
 												<HasRelativePath Value="true" />
 												<RelativePathType Value="5" />
 												<RelativePath>
-													<RelativePathElement Id="12" Dir="Devices" />
-													<RelativePathElement Id="13" Dir="Instruments" />
-													<RelativePathElement Id="14" Dir="Drum Rack" />
+													<RelativePathElement Id="9" Dir="Devices" />
+													<RelativePathElement Id="10" Dir="Instruments" />
+													<RelativePathElement Id="11" Dir="Drum Rack" />
 												</RelativePath>
 												<Name Value="" />
 												<Type Value="1" />
@@ -3959,9 +3872,9 @@
 													<HasRelativePath Value="true" />
 													<RelativePathType Value="5" />
 													<RelativePath>
-														<RelativePathElement Id="12" Dir="Devices" />
-														<RelativePathElement Id="13" Dir="Instruments" />
-														<RelativePathElement Id="14" Dir="Drum Rack" />
+														<RelativePathElement Id="9" Dir="Devices" />
+														<RelativePathElement Id="10" Dir="Instruments" />
+														<RelativePathElement Id="11" Dir="Drum Rack" />
 													</RelativePath>
 													<Name Value="" />
 													<Type Value="1" />
@@ -3991,9 +3904,9 @@
 														<HasRelativePath Value="true" />
 														<RelativePathType Value="5" />
 														<RelativePath>
-															<RelativePathElement Id="12" Dir="Devices" />
-															<RelativePathElement Id="13" Dir="Instruments" />
-															<RelativePathElement Id="14" Dir="Drum Rack" />
+															<RelativePathElement Id="9" Dir="Devices" />
+															<RelativePathElement Id="10" Dir="Instruments" />
+															<RelativePathElement Id="11" Dir="Drum Rack" />
 														</RelativePath>
 														<Name Value="" />
 														<Type Value="1" />
@@ -4061,10 +3974,9 @@
 																		<HasRelativePath Value="true" />
 																		<RelativePathType Value="1" />
 																		<RelativePath>
-																			<RelativePathElement Id="11" Dir="" />
-																			<RelativePathElement Id="12" Dir="" />
-																			<RelativePathElement Id="13" Dir="" />
-																			<RelativePathElement Id="14" Dir="Desktop" />
+																			<RelativePathElement Id="8" Dir="" />
+																			<RelativePathElement Id="9" Dir="" />
+																			<RelativePathElement Id="10" Dir="Desktop" />
 																		</RelativePath>
 																		<Name Value="" />
 																		<Type Value="1" />
@@ -4150,9 +4062,9 @@
 																				<HasRelativePath Value="true" />
 																				<RelativePathType Value="5" />
 																				<RelativePath>
-																					<RelativePathElement Id="12" Dir="Samples" />
-																					<RelativePathElement Id="13" Dir="Drums" />
-																					<RelativePathElement Id="14" Dir="Kick" />
+																					<RelativePathElement Id="9" Dir="Samples" />
+																					<RelativePathElement Id="10" Dir="Drums" />
+																					<RelativePathElement Id="11" Dir="Kick" />
 																				</RelativePath>
 																				<Name Value="Kick Analog 1.aif" />
 																				<Type Value="1" />
@@ -4187,13 +4099,13 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="4">
+																						<FileRef Id="3">
 																							<HasRelativePath Value="true" />
 																							<RelativePathType Value="5" />
 																							<RelativePath>
-																								<RelativePathElement Id="15" Dir="Samples" />
-																								<RelativePathElement Id="16" Dir="Drums" />
-																								<RelativePathElement Id="17" Dir="Kick" />
+																								<RelativePathElement Id="12" Dir="Samples" />
+																								<RelativePathElement Id="13" Dir="Drums" />
+																								<RelativePathElement Id="14" Dir="Kick" />
 																							</RelativePath>
 																							<Name Value="Kick Analog 1.aif" />
 																							<Type Value="1" />
@@ -5120,9 +5032,9 @@
 															<HasRelativePath Value="true" />
 															<RelativePathType Value="5" />
 															<RelativePath>
-																<RelativePathElement Id="12" Dir="Samples" />
-																<RelativePathElement Id="13" Dir="Drums" />
-																<RelativePathElement Id="14" Dir="Kick" />
+																<RelativePathElement Id="9" Dir="Samples" />
+																<RelativePathElement Id="10" Dir="Drums" />
+																<RelativePathElement Id="11" Dir="Kick" />
 															</RelativePath>
 															<Name Value="Kick Analog 1.aif" />
 															<Type Value="1" />
@@ -5277,10 +5189,9 @@
 																		<HasRelativePath Value="true" />
 																		<RelativePathType Value="1" />
 																		<RelativePath>
-																			<RelativePathElement Id="11" Dir="" />
-																			<RelativePathElement Id="12" Dir="" />
-																			<RelativePathElement Id="13" Dir="" />
-																			<RelativePathElement Id="14" Dir="Desktop" />
+																			<RelativePathElement Id="8" Dir="" />
+																			<RelativePathElement Id="9" Dir="" />
+																			<RelativePathElement Id="10" Dir="Desktop" />
 																		</RelativePath>
 																		<Name Value="" />
 																		<Type Value="1" />
@@ -5366,9 +5277,9 @@
 																				<HasRelativePath Value="true" />
 																				<RelativePathType Value="5" />
 																				<RelativePath>
-																					<RelativePathElement Id="12" Dir="Samples" />
-																					<RelativePathElement Id="13" Dir="Drums" />
-																					<RelativePathElement Id="14" Dir="Kick" />
+																					<RelativePathElement Id="9" Dir="Samples" />
+																					<RelativePathElement Id="10" Dir="Drums" />
+																					<RelativePathElement Id="11" Dir="Kick" />
 																				</RelativePath>
 																				<Name Value="Kick Analog 1.aif" />
 																				<Type Value="1" />
@@ -5403,13 +5314,13 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="4">
+																						<FileRef Id="3">
 																							<HasRelativePath Value="true" />
 																							<RelativePathType Value="5" />
 																							<RelativePath>
-																								<RelativePathElement Id="15" Dir="Samples" />
-																								<RelativePathElement Id="16" Dir="Drums" />
-																								<RelativePathElement Id="17" Dir="Kick" />
+																								<RelativePathElement Id="12" Dir="Samples" />
+																								<RelativePathElement Id="13" Dir="Drums" />
+																								<RelativePathElement Id="14" Dir="Kick" />
 																							</RelativePath>
 																							<Name Value="Kick Analog 1.aif" />
 																							<Type Value="1" />
@@ -6336,9 +6247,9 @@
 															<HasRelativePath Value="true" />
 															<RelativePathType Value="5" />
 															<RelativePath>
-																<RelativePathElement Id="12" Dir="Samples" />
-																<RelativePathElement Id="13" Dir="Drums" />
-																<RelativePathElement Id="14" Dir="Kick" />
+																<RelativePathElement Id="9" Dir="Samples" />
+																<RelativePathElement Id="10" Dir="Drums" />
+																<RelativePathElement Id="11" Dir="Kick" />
 															</RelativePath>
 															<Name Value="Kick Analog 1.aif" />
 															<Type Value="1" />
@@ -6493,10 +6404,9 @@
 																		<HasRelativePath Value="true" />
 																		<RelativePathType Value="1" />
 																		<RelativePath>
-																			<RelativePathElement Id="11" Dir="" />
-																			<RelativePathElement Id="12" Dir="" />
-																			<RelativePathElement Id="13" Dir="" />
-																			<RelativePathElement Id="14" Dir="Desktop" />
+																			<RelativePathElement Id="8" Dir="" />
+																			<RelativePathElement Id="9" Dir="" />
+																			<RelativePathElement Id="10" Dir="Desktop" />
 																		</RelativePath>
 																		<Name Value="" />
 																		<Type Value="1" />
@@ -6582,9 +6492,9 @@
 																				<HasRelativePath Value="true" />
 																				<RelativePathType Value="5" />
 																				<RelativePath>
-																					<RelativePathElement Id="12" Dir="Samples" />
-																					<RelativePathElement Id="13" Dir="Drums" />
-																					<RelativePathElement Id="14" Dir="Snare" />
+																					<RelativePathElement Id="9" Dir="Samples" />
+																					<RelativePathElement Id="10" Dir="Drums" />
+																					<RelativePathElement Id="11" Dir="Snare" />
 																				</RelativePath>
 																				<Name Value="Snare FutureProof 1.wav" />
 																				<Type Value="1" />
@@ -6620,13 +6530,13 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="4">
+																						<FileRef Id="3">
 																							<HasRelativePath Value="true" />
 																							<RelativePathType Value="5" />
 																							<RelativePath>
-																								<RelativePathElement Id="15" Dir="Samples" />
-																								<RelativePathElement Id="16" Dir="Drums" />
-																								<RelativePathElement Id="17" Dir="Snare" />
+																								<RelativePathElement Id="12" Dir="Samples" />
+																								<RelativePathElement Id="13" Dir="Drums" />
+																								<RelativePathElement Id="14" Dir="Snare" />
 																							</RelativePath>
 																							<Name Value="Snare FutureProof 1.wav" />
 																							<Type Value="1" />
@@ -7554,9 +7464,9 @@
 															<HasRelativePath Value="true" />
 															<RelativePathType Value="5" />
 															<RelativePath>
-																<RelativePathElement Id="12" Dir="Samples" />
-																<RelativePathElement Id="13" Dir="Drums" />
-																<RelativePathElement Id="14" Dir="Snare" />
+																<RelativePathElement Id="9" Dir="Samples" />
+																<RelativePathElement Id="10" Dir="Drums" />
+																<RelativePathElement Id="11" Dir="Snare" />
 															</RelativePath>
 															<Name Value="Snare FutureProof 1.wav" />
 															<Type Value="1" />
@@ -7712,10 +7622,9 @@
 																		<HasRelativePath Value="true" />
 																		<RelativePathType Value="1" />
 																		<RelativePath>
-																			<RelativePathElement Id="11" Dir="" />
-																			<RelativePathElement Id="12" Dir="" />
-																			<RelativePathElement Id="13" Dir="" />
-																			<RelativePathElement Id="14" Dir="Desktop" />
+																			<RelativePathElement Id="8" Dir="" />
+																			<RelativePathElement Id="9" Dir="" />
+																			<RelativePathElement Id="10" Dir="Desktop" />
 																		</RelativePath>
 																		<Name Value="" />
 																		<Type Value="1" />
@@ -7801,9 +7710,9 @@
 																				<HasRelativePath Value="true" />
 																				<RelativePathType Value="5" />
 																				<RelativePath>
-																					<RelativePathElement Id="12" Dir="Samples" />
-																					<RelativePathElement Id="13" Dir="Drums" />
-																					<RelativePathElement Id="14" Dir="Snare" />
+																					<RelativePathElement Id="9" Dir="Samples" />
+																					<RelativePathElement Id="10" Dir="Drums" />
+																					<RelativePathElement Id="11" Dir="Snare" />
 																				</RelativePath>
 																				<Name Value="Snare 808 Tite.aif" />
 																				<Type Value="1" />
@@ -7838,13 +7747,13 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="4">
+																						<FileRef Id="3">
 																							<HasRelativePath Value="true" />
 																							<RelativePathType Value="5" />
 																							<RelativePath>
-																								<RelativePathElement Id="15" Dir="Samples" />
-																								<RelativePathElement Id="16" Dir="Drums" />
-																								<RelativePathElement Id="17" Dir="Snare" />
+																								<RelativePathElement Id="12" Dir="Samples" />
+																								<RelativePathElement Id="13" Dir="Drums" />
+																								<RelativePathElement Id="14" Dir="Snare" />
 																							</RelativePath>
 																							<Name Value="Snare 808 Tite.aif" />
 																							<Type Value="1" />
@@ -8769,9 +8678,9 @@
 															<HasRelativePath Value="true" />
 															<RelativePathType Value="5" />
 															<RelativePath>
-																<RelativePathElement Id="12" Dir="Samples" />
-																<RelativePathElement Id="13" Dir="Drums" />
-																<RelativePathElement Id="14" Dir="Snare" />
+																<RelativePathElement Id="9" Dir="Samples" />
+																<RelativePathElement Id="10" Dir="Drums" />
+																<RelativePathElement Id="11" Dir="Snare" />
 															</RelativePath>
 															<Name Value="Snare 808 Tite.aif" />
 															<Type Value="1" />
@@ -8926,10 +8835,9 @@
 																		<HasRelativePath Value="true" />
 																		<RelativePathType Value="1" />
 																		<RelativePath>
-																			<RelativePathElement Id="7" Dir="" />
-																			<RelativePathElement Id="8" Dir="" />
-																			<RelativePathElement Id="9" Dir="" />
-																			<RelativePathElement Id="10" Dir="Desktop" />
+																			<RelativePathElement Id="4" Dir="" />
+																			<RelativePathElement Id="5" Dir="" />
+																			<RelativePathElement Id="6" Dir="Desktop" />
 																		</RelativePath>
 																		<Name Value="" />
 																		<Type Value="1" />
@@ -9015,9 +8923,9 @@
 																				<HasRelativePath Value="true" />
 																				<RelativePathType Value="5" />
 																				<RelativePath>
-																					<RelativePathElement Id="9" Dir="Samples" />
-																					<RelativePathElement Id="10" Dir="Drums" />
-																					<RelativePathElement Id="11" Dir="Tom" />
+																					<RelativePathElement Id="6" Dir="Samples" />
+																					<RelativePathElement Id="7" Dir="Drums" />
+																					<RelativePathElement Id="8" Dir="Tom" />
 																				</RelativePath>
 																				<Name Value="A-Mid Tom Gretsch 1.aif" />
 																				<Type Value="1" />
@@ -9053,13 +8961,13 @@
 																			<SourceContext>
 																				<SourceContext Id="0">
 																					<OriginalFileRef>
-																						<FileRef Id="3">
+																						<FileRef Id="2">
 																							<HasRelativePath Value="true" />
 																							<RelativePathType Value="5" />
 																							<RelativePath>
-																								<RelativePathElement Id="12" Dir="Samples" />
-																								<RelativePathElement Id="13" Dir="Drums" />
-																								<RelativePathElement Id="14" Dir="Tom" />
+																								<RelativePathElement Id="9" Dir="Samples" />
+																								<RelativePathElement Id="10" Dir="Drums" />
+																								<RelativePathElement Id="11" Dir="Tom" />
 																							</RelativePath>
 																							<Name Value="A-Mid Tom Gretsch 1.aif" />
 																							<Type Value="1" />
@@ -9988,9 +9896,9 @@
 															<HasRelativePath Value="true" />
 															<RelativePathType Value="5" />
 															<RelativePath>
-																<RelativePathElement Id="9" Dir="Samples" />
-																<RelativePathElement Id="10" Dir="Drums" />
-																<RelativePathElement Id="11" Dir="Tom" />
+																<RelativePathElement Id="6" Dir="Samples" />
+																<RelativePathElement Id="7" Dir="Drums" />
+																<RelativePathElement Id="8" Dir="Tom" />
 															</RelativePath>
 															<Name Value="A-Mid Tom Gretsch 1.aif" />
 															<Type Value="1" />
@@ -10316,10 +10224,10 @@
 					<IsValueSampleBased Value="false" />
 				</TrackDelay>
 				<Name>
-					<EffectiveName Value="3-Audio" />
+					<EffectiveName Value="3-Cougar Town - Intro" />
 					<UserName Value="" />
 					<Annotation Value="" />
-					<MemorizedFirstClipName Value="" />
+					<MemorizedFirstClipName Value="Cougar Town - Intro" />
 				</Name>
 				<ColorIndex Value="165" />
 				<AutomationEnvelopes>
@@ -10350,8 +10258,8 @@
 					</AutomationLanes>
 					<ClipEnvelopeChooserViewState>
 						<SelectedDevice Value="1" />
-						<SelectedEnvelope Value="1" />
-						<PreferModulationVisible Value="true" />
+						<SelectedEnvelope Value="0" />
+						<PreferModulationVisible Value="false" />
 					</ClipEnvelopeChooserViewState>
 					<AudioInputRouting>
 						<Target Value="AudioIn/External/S0" />
@@ -10440,7 +10348,7 @@
 						</Sends>
 						<Speaker>
 							<LomId Value="0" />
-							<Manual Value="true" />
+							<Manual Value="false" />
 							<AutomationTarget Id="20293">
 								<LockEnvelope Value="0" />
 							</AutomationTarget>
@@ -10615,7 +10523,166 @@
 						<MonitoringEnum Value="1" />
 						<Sample>
 							<ArrangerAutomation>
-								<Events />
+								<Events>
+									<AudioClip Id="3" Time="8">
+										<LomId Value="0" />
+										<LomIdView Value="0" />
+										<CurrentStart Value="8" />
+										<CurrentEnd Value="12" />
+										<Loop>
+											<LoopStart Value="0" />
+											<LoopEnd Value="2" />
+											<StartRelative Value="0" />
+											<LoopOn Value="true" />
+											<OutMarker Value="2.90625" />
+											<HiddenLoopStart Value="0" />
+											<HiddenLoopEnd Value="2" />
+										</Loop>
+										<Name Value="Cougar Town - Intro" />
+										<Annotation Value="" />
+										<ColorIndex Value="25" />
+										<LaunchMode Value="0" />
+										<LaunchQuantisation Value="0" />
+										<TimeSignature>
+											<TimeSignatures>
+												<RemoteableTimeSignature Id="0">
+													<Numerator Value="4" />
+													<Denominator Value="4" />
+													<Time Value="0" />
+												</RemoteableTimeSignature>
+											</TimeSignatures>
+										</TimeSignature>
+										<Envelopes>
+											<Envelopes />
+										</Envelopes>
+										<ScrollerTimePreserver>
+											<LeftTime Value="0" />
+											<RightTime Value="2" />
+										</ScrollerTimePreserver>
+										<TimeSelection>
+											<AnchorTime Value="0" />
+											<OtherTime Value="0" />
+										</TimeSelection>
+										<Legato Value="false" />
+										<Ram Value="false" />
+										<GrooveSettings>
+											<GrooveId Value="-1" />
+										</GrooveSettings>
+										<Disabled Value="false" />
+										<VelocityAmount Value="0" />
+										<FollowTime Value="4" />
+										<FollowActionA Value="0" />
+										<FollowActionB Value="0" />
+										<FollowChanceA Value="1" />
+										<FollowChanceB Value="0" />
+										<Grid>
+											<FixedNumerator Value="1" />
+											<FixedDenominator Value="16" />
+											<GridIntervalPixel Value="20" />
+											<Ntoles Value="2" />
+											<SnapToGrid Value="true" />
+											<Fixed Value="false" />
+										</Grid>
+										<FreezeStart Value="0" />
+										<FreezeEnd Value="0" />
+										<IsWarped Value="true" />
+										<SampleRef>
+											<FileRef>
+												<HasRelativePath Value="true" />
+												<RelativePathType Value="3" />
+												<RelativePath>
+													<RelativePathElement Id="13" Dir="Samples" />
+													<RelativePathElement Id="14" Dir="Processed" />
+													<RelativePathElement Id="15" Dir="Crop" />
+												</RelativePath>
+												<Name Value="Cougar Town - Intro [2021-03-06 201932].wav" />
+												<Type Value="1" />
+												<Data>
+													43003A005C00550073006500720073005C00650076006200720069005C004D007500730069006300
+													5C00410062006C00650074006F006E002D00500072006F006A006500630074005C00530061006D00
+													70006C00650073005C00500072006F006300650073007300650064005C00430072006F0070005C00
+													43006F007500670061007200200054006F0077006E0020002D00200049006E00740072006F002000
+													5B0032003000320031002D00300033002D003000360020003200300031003900330032005D002E00
+													7700610076000000
+												</Data>
+												<RefersToFolder Value="false" />
+												<SearchHint>
+													<PathHint>
+														<RelativePathElement Id="16" Dir="Users" />
+														<RelativePathElement Id="17" Dir="evbri" />
+														<RelativePathElement Id="18" Dir="Music" />
+														<RelativePathElement Id="19" Dir="Ableton-Project" />
+														<RelativePathElement Id="20" Dir="Samples" />
+														<RelativePathElement Id="21" Dir="Processed" />
+														<RelativePathElement Id="22" Dir="Crop" />
+													</PathHint>
+													<FileSize Value="258904" />
+													<Crc Value="38083" />
+													<MaxCrcSize Value="16384" />
+													<HasExtendedInfo Value="true" />
+												</SearchHint>
+												<LivePackName Value="" />
+												<LivePackId Value="" />
+											</FileRef>
+											<LastModDate Value="1615058373" />
+											<SourceContext />
+											<SampleUsageHint Value="0" />
+											<DefaultDuration Value="64715" />
+											<DefaultSampleRate Value="48000" />
+										</SampleRef>
+										<Onsets>
+											<UserOnsets>
+												<OnsetEvent Time="0" Energy="Invalid" IsVolatile="false" />
+												<OnsetEvent Time="0.155500000000000083" Energy="0.250707447528839111" IsVolatile="false" />
+												<OnsetEvent Time="0.491645833333333449" Energy="0.397842288017272949" IsVolatile="false" />
+												<OnsetEvent Time="0.808958333333333335" Energy="0.445232212543487549" IsVolatile="false" />
+												<OnsetEvent Time="1.0092916666666665" Energy="0.632241189479827881" IsVolatile="false" />
+											</UserOnsets>
+											<HasUserOnsets Value="true" />
+										</Onsets>
+										<WarpMode Value="0" />
+										<GranularityTones Value="30" />
+										<GranularityTexture Value="65" />
+										<FluctuationTexture Value="25" />
+										<TransientResolution Value="6" />
+										<TransientLoopMode Value="2" />
+										<TransientEnvelope Value="100" />
+										<ComplexProFormants Value="100" />
+										<ComplexProEnvelope Value="128" />
+										<Sync Value="true" />
+										<HiQ Value="true" />
+										<Fade Value="true" />
+										<Fades>
+											<FadeInLength Value="0" />
+											<FadeOutLength Value="0" />
+											<ClipFadesAreInitialized Value="true" />
+											<CrossfadeInState Value="0" />
+											<FadeInCurveSkew Value="0" />
+											<FadeInCurveSlope Value="0" />
+											<FadeOutCurveSkew Value="0" />
+											<FadeOutCurveSlope Value="0" />
+											<IsDefaultFadeIn Value="true" />
+											<IsDefaultFadeOut Value="true" />
+										</Fades>
+										<PitchCoarse Value="0" />
+										<PitchFine Value="0" />
+										<SampleVolume Value="1" />
+										<MarkerDensity Value="2" />
+										<AutoWarpTolerance Value="4" />
+										<WarpMarkers>
+											<WarpMarker Id="8" SecTime="0" BeatTime="0" />
+											<WarpMarker Id="9" SecTime="0.155500000000000083" BeatTime="0.25" />
+											<WarpMarker Id="10" SecTime="0.491645833333333449" BeatTime="0.71875" />
+											<WarpMarker Id="11" SecTime="0.808958333333333335" BeatTime="1.21875" />
+											<WarpMarker Id="12" SecTime="1.0092916666666665" BeatTime="1.5" />
+											<WarpMarker Id="13" SecTime="1.3482291666666666" BeatTime="2" />
+											<WarpMarker Id="17" SecTime="1.3692729915098525" BeatTime="2.03125" />
+										</WarpMarkers>
+										<SavedWarpMarkersForStretched />
+										<MarkersGenerated Value="false" />
+										<IsSongTempoMaster Value="false" />
+									</AudioClip>
+								</Events>
 								<AutomationTransformViewState>
 									<IsTransformPending Value="false" />
 									<TimeAndValueTransforms />
@@ -10919,7 +10986,7 @@
 								<Max Value="127" />
 							</MidiCCOnOffThresholds>
 						</Speaker>
-						<SoloSink Value="true" />
+						<SoloSink Value="false" />
 						<PanMode Value="0" />
 						<Pan>
 							<LomId Value="0" />
@@ -11086,14 +11153,14 @@
 						<Sample>
 							<ArrangerAutomation>
 								<Events>
-									<AudioClip Id="1" Time="11.94358558108558">
+									<AudioClip Id="0" Time="8">
 										<LomId Value="0" />
 										<LomIdView Value="0" />
-										<CurrentStart Value="11.94358558108558" />
-										<CurrentEnd Value="13.887171162171162" />
+										<CurrentStart Value="8" />
+										<CurrentEnd Value="10.94358558108558" />
 										<Loop>
-											<LoopStart Value="0.676000027162680928" />
-											<LoopEnd Value="1.9898639327695284" />
+											<LoopStart Value="0" />
+											<LoopEnd Value="1.9898639327695258" />
 											<StartRelative Value="0" />
 											<LoopOn Value="false" />
 											<OutMarker Value="1.9898639455782312" />
@@ -11118,8 +11185,8 @@
 											<Envelopes />
 										</Envelopes>
 										<ScrollerTimePreserver>
-											<LeftTime Value="-0.000842416464647307087" />
-											<RightTime Value="1.9413403020928401" />
+											<LeftTime Value="0" />
+											<RightTime Value="2.9435856000333684" />
 										</ScrollerTimePreserver>
 										<TimeSelection>
 											<AnchorTime Value="0" />
@@ -11153,8 +11220,8 @@
 												<HasRelativePath Value="true" />
 												<RelativePathType Value="5" />
 												<RelativePath>
-													<RelativePathElement Id="6" Dir="Samples" />
-													<RelativePathElement Id="7" Dir="Synth" />
+													<RelativePathElement Id="4" Dir="Samples" />
+													<RelativePathElement Id="5" Dir="Synth" />
 												</RelativePath>
 												<Name Value="BBass.aif" />
 												<Type Value="1" />
@@ -11188,12 +11255,12 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="3">
+														<FileRef Id="2">
 															<HasRelativePath Value="true" />
 															<RelativePathType Value="5" />
 															<RelativePath>
-																<RelativePathElement Id="8" Dir="Samples" />
-																<RelativePathElement Id="9" Dir="Synth" />
+																<RelativePathElement Id="6" Dir="Samples" />
+																<RelativePathElement Id="7" Dir="Synth" />
 															</RelativePath>
 															<Name Value="BBass.aif" />
 															<Type Value="1" />
@@ -11248,7 +11315,7 @@
 										<HiQ Value="true" />
 										<Fade Value="true" />
 										<Fades>
-											<FadeInLength Value="0.00400016650016650054" />
+											<FadeInLength Value="0" />
 											<FadeOutLength Value="0" />
 											<ClipFadesAreInitialized Value="true" />
 											<CrossfadeInState Value="0" />
@@ -11256,17 +11323,203 @@
 											<FadeInCurveSlope Value="0" />
 											<FadeOutCurveSkew Value="0" />
 											<FadeOutCurveSlope Value="0" />
-											<IsDefaultFadeIn Value="false" />
+											<IsDefaultFadeIn Value="true" />
 											<IsDefaultFadeOut Value="true" />
 										</Fades>
-										<PitchCoarse Value="-48" />
+										<PitchCoarse Value="0" />
 										<PitchFine Value="0" />
-										<SampleVolume Value="11.802825" />
+										<SampleVolume Value="1" />
 										<MarkerDensity Value="2" />
 										<AutoWarpTolerance Value="4" />
 										<WarpMarkers>
-											<WarpMarker Id="534" SecTime="0.676000027162680928" BeatTime="0" />
-											<WarpMarker Id="535" SecTime="0.677320336803952872" BeatTime="0.03125" />
+											<WarpMarker Id="10" SecTime="0" BeatTime="0" />
+											<WarpMarker Id="11" SecTime="0.0211250008488337547" BeatTime="0.03125" />
+										</WarpMarkers>
+										<SavedWarpMarkersForStretched />
+										<MarkersGenerated Value="true" />
+										<IsSongTempoMaster Value="false" />
+									</AudioClip>
+									<AudioClip Id="1" Time="10.94358558108558">
+										<LomId Value="0" />
+										<LomIdView Value="0" />
+										<CurrentStart Value="10.94358558108558" />
+										<CurrentEnd Value="13.887171162171162" />
+										<Loop>
+											<LoopStart Value="0.00000000000000133226762955018785" />
+											<LoopEnd Value="1.9898639327695284" />
+											<StartRelative Value="0" />
+											<LoopOn Value="false" />
+											<OutMarker Value="1.9898639455782312" />
+											<HiddenLoopStart Value="0" />
+											<HiddenLoopEnd Value="1.9898639455782312" />
+										</Loop>
+										<Name Value="BBass" />
+										<Annotation Value="" />
+										<ColorIndex Value="1" />
+										<LaunchMode Value="0" />
+										<LaunchQuantisation Value="0" />
+										<TimeSignature>
+											<TimeSignatures>
+												<RemoteableTimeSignature Id="0">
+													<Numerator Value="4" />
+													<Denominator Value="4" />
+													<Time Value="0" />
+												</RemoteableTimeSignature>
+											</TimeSignatures>
+										</TimeSignature>
+										<Envelopes>
+											<Envelopes />
+										</Envelopes>
+										<ScrollerTimePreserver>
+											<LeftTime Value="-0.00000000000000197081002369483058" />
+											<RightTime Value="2.9435856000333667" />
+										</ScrollerTimePreserver>
+										<TimeSelection>
+											<AnchorTime Value="0" />
+											<OtherTime Value="0" />
+										</TimeSelection>
+										<Legato Value="false" />
+										<Ram Value="false" />
+										<GrooveSettings>
+											<GrooveId Value="-1" />
+										</GrooveSettings>
+										<Disabled Value="false" />
+										<VelocityAmount Value="0" />
+										<FollowTime Value="4" />
+										<FollowActionA Value="0" />
+										<FollowActionB Value="0" />
+										<FollowChanceA Value="1" />
+										<FollowChanceB Value="0" />
+										<Grid>
+											<FixedNumerator Value="1" />
+											<FixedDenominator Value="16" />
+											<GridIntervalPixel Value="20" />
+											<Ntoles Value="2" />
+											<SnapToGrid Value="true" />
+											<Fixed Value="false" />
+										</Grid>
+										<FreezeStart Value="0" />
+										<FreezeEnd Value="0" />
+										<IsWarped Value="false" />
+										<SampleRef>
+											<FileRef>
+												<HasRelativePath Value="true" />
+												<RelativePathType Value="5" />
+												<RelativePath>
+													<RelativePathElement Id="4" Dir="Samples" />
+													<RelativePathElement Id="5" Dir="Synth" />
+												</RelativePath>
+												<Name Value="BBass.aif" />
+												<Type Value="1" />
+												<Data>
+													43003A005C00500072006F006700720061006D0044006100740061005C00410062006C0065007400
+													6F006E005C004C0069007600650020003100300020004C006900740065005C005200650073006F00
+													750072006300650073005C0043006F007200650020004C006900620072006100720079005C005300
+													61006D0070006C00650073005C00530079006E00740068005C00420042006100730073002E006100
+													690066000000
+												</Data>
+												<RefersToFolder Value="false" />
+												<SearchHint>
+													<PathHint>
+														<RelativePathElement Id="7" Dir="ProgramData" />
+														<RelativePathElement Id="8" Dir="Ableton" />
+														<RelativePathElement Id="9" Dir="Live 10 Lite" />
+														<RelativePathElement Id="10" Dir="Resources" />
+														<RelativePathElement Id="11" Dir="Core Library" />
+														<RelativePathElement Id="12" Dir="Samples" />
+														<RelativePathElement Id="13" Dir="Synth" />
+													</PathHint>
+													<FileSize Value="526572" />
+													<Crc Value="1535" />
+													<MaxCrcSize Value="16384" />
+													<HasExtendedInfo Value="true" />
+												</SearchHint>
+												<LivePackName Value="Core Library" />
+												<LivePackId Value="www.ableton.com/0" />
+											</FileRef>
+											<LastModDate Value="1593526496" />
+											<SourceContext>
+												<SourceContext Id="0">
+													<OriginalFileRef>
+														<FileRef Id="2">
+															<HasRelativePath Value="true" />
+															<RelativePathType Value="5" />
+															<RelativePath>
+																<RelativePathElement Id="6" Dir="Samples" />
+																<RelativePathElement Id="7" Dir="Synth" />
+															</RelativePath>
+															<Name Value="BBass.aif" />
+															<Type Value="1" />
+															<Data>
+																43003A005C00500072006F006700720061006D0044006100740061005C00410062006C0065007400
+																6F006E005C004C0069007600650020003100300020004C006900740065005C005200650073006F00
+																750072006300650073005C0043006F007200650020004C006900620072006100720079005C005300
+																61006D0070006C00650073005C00530079006E00740068005C00420042006100730073002E006100
+																690066000000
+															</Data>
+															<RefersToFolder Value="false" />
+															<SearchHint>
+																<PathHint>
+																	<RelativePathElement Id="7" Dir="ProgramData" />
+																	<RelativePathElement Id="8" Dir="Ableton" />
+																	<RelativePathElement Id="9" Dir="Live 10 Lite" />
+																	<RelativePathElement Id="10" Dir="Resources" />
+																	<RelativePathElement Id="11" Dir="Core Library" />
+																	<RelativePathElement Id="12" Dir="Samples" />
+																	<RelativePathElement Id="13" Dir="Synth" />
+																</PathHint>
+																<FileSize Value="526572" />
+																<Crc Value="1535" />
+																<MaxCrcSize Value="16384" />
+																<HasExtendedInfo Value="true" />
+															</SearchHint>
+															<LivePackName Value="Core Library" />
+															<LivePackId Value="www.ableton.com/0" />
+														</FileRef>
+													</OriginalFileRef>
+													<BrowserContentPath Value="query:Samples#FileId_14083" />
+												</SourceContext>
+											</SourceContext>
+											<SampleUsageHint Value="0" />
+											<DefaultDuration Value="87753" />
+											<DefaultSampleRate Value="44100" />
+										</SampleRef>
+										<Onsets>
+											<UserOnsets />
+											<HasUserOnsets Value="false" />
+										</Onsets>
+										<WarpMode Value="0" />
+										<GranularityTones Value="30" />
+										<GranularityTexture Value="65" />
+										<FluctuationTexture Value="25" />
+										<TransientResolution Value="6" />
+										<TransientLoopMode Value="2" />
+										<TransientEnvelope Value="100" />
+										<ComplexProFormants Value="100" />
+										<ComplexProEnvelope Value="128" />
+										<Sync Value="true" />
+										<HiQ Value="true" />
+										<Fade Value="true" />
+										<Fades>
+											<FadeInLength Value="0" />
+											<FadeOutLength Value="0" />
+											<ClipFadesAreInitialized Value="true" />
+											<CrossfadeInState Value="0" />
+											<FadeInCurveSkew Value="0" />
+											<FadeInCurveSlope Value="0" />
+											<FadeOutCurveSkew Value="0" />
+											<FadeOutCurveSlope Value="0" />
+											<IsDefaultFadeIn Value="true" />
+											<IsDefaultFadeOut Value="true" />
+										</Fades>
+										<PitchCoarse Value="0" />
+										<PitchFine Value="0" />
+										<SampleVolume Value="1" />
+										<MarkerDensity Value="2" />
+										<AutoWarpTolerance Value="4" />
+										<WarpMarkers>
+											<WarpMarker Id="16" SecTime="0.00000000000000133226762955018785" BeatTime="0" />
+											<WarpMarker Id="17" SecTime="0.021125000848835087" BeatTime="0.03125" />
 										</WarpMarkers>
 										<SavedWarpMarkersForStretched />
 										<MarkersGenerated Value="true" />
@@ -11339,8 +11592,8 @@
 												<HasRelativePath Value="true" />
 												<RelativePathType Value="5" />
 												<RelativePath>
-													<RelativePathElement Id="6" Dir="Samples" />
-													<RelativePathElement Id="7" Dir="Synth" />
+													<RelativePathElement Id="4" Dir="Samples" />
+													<RelativePathElement Id="5" Dir="Synth" />
 												</RelativePath>
 												<Name Value="BBass.aif" />
 												<Type Value="1" />
@@ -11374,12 +11627,12 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="3">
+														<FileRef Id="2">
 															<HasRelativePath Value="true" />
 															<RelativePathType Value="5" />
 															<RelativePath>
-																<RelativePathElement Id="8" Dir="Samples" />
-																<RelativePathElement Id="9" Dir="Synth" />
+																<RelativePathElement Id="6" Dir="Samples" />
+																<RelativePathElement Id="7" Dir="Synth" />
 															</RelativePath>
 															<Name Value="BBass.aif" />
 															<Type Value="1" />
@@ -11451,8 +11704,8 @@
 										<MarkerDensity Value="2" />
 										<AutoWarpTolerance Value="4" />
 										<WarpMarkers>
-											<WarpMarker Id="24" SecTime="0" BeatTime="0" />
-											<WarpMarker Id="25" SecTime="0.0211250008488337547" BeatTime="0.03125" />
+											<WarpMarker Id="22" SecTime="0" BeatTime="0" />
+											<WarpMarker Id="23" SecTime="0.0211250008488337547" BeatTime="0.03125" />
 										</WarpMarkers>
 										<SavedWarpMarkersForStretched />
 										<MarkersGenerated Value="true" />
@@ -11525,8 +11778,8 @@
 												<HasRelativePath Value="true" />
 												<RelativePathType Value="5" />
 												<RelativePath>
-													<RelativePathElement Id="6" Dir="Samples" />
-													<RelativePathElement Id="7" Dir="Synth" />
+													<RelativePathElement Id="4" Dir="Samples" />
+													<RelativePathElement Id="5" Dir="Synth" />
 												</RelativePath>
 												<Name Value="BBass.aif" />
 												<Type Value="1" />
@@ -11560,12 +11813,12 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="3">
+														<FileRef Id="2">
 															<HasRelativePath Value="true" />
 															<RelativePathType Value="5" />
 															<RelativePath>
-																<RelativePathElement Id="8" Dir="Samples" />
-																<RelativePathElement Id="9" Dir="Synth" />
+																<RelativePathElement Id="6" Dir="Samples" />
+																<RelativePathElement Id="7" Dir="Synth" />
 															</RelativePath>
 															<Name Value="BBass.aif" />
 															<Type Value="1" />
@@ -11637,8 +11890,8 @@
 										<MarkerDensity Value="2" />
 										<AutoWarpTolerance Value="4" />
 										<WarpMarkers>
-											<WarpMarker Id="30" SecTime="0.00000000000000133226762955018785" BeatTime="0" />
-											<WarpMarker Id="31" SecTime="0.021125000848835087" BeatTime="0.03125" />
+											<WarpMarker Id="28" SecTime="0.00000000000000133226762955018785" BeatTime="0" />
+											<WarpMarker Id="29" SecTime="0.021125000848835087" BeatTime="0.03125" />
 										</WarpMarkers>
 										<SavedWarpMarkersForStretched />
 										<MarkersGenerated Value="true" />
@@ -11676,8 +11929,8 @@
 											<Envelopes />
 										</Envelopes>
 										<ScrollerTimePreserver>
-											<LeftTime Value="1.2206676341095817" />
-											<RightTime Value="4.1628598015261744" />
+											<LeftTime Value="0" />
+											<RightTime Value="2.9435856000333684" />
 										</ScrollerTimePreserver>
 										<TimeSelection>
 											<AnchorTime Value="0" />
@@ -11711,8 +11964,8 @@
 												<HasRelativePath Value="true" />
 												<RelativePathType Value="5" />
 												<RelativePath>
-													<RelativePathElement Id="6" Dir="Samples" />
-													<RelativePathElement Id="7" Dir="Synth" />
+													<RelativePathElement Id="4" Dir="Samples" />
+													<RelativePathElement Id="5" Dir="Synth" />
 												</RelativePath>
 												<Name Value="BBass.aif" />
 												<Type Value="1" />
@@ -11746,12 +11999,12 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="3">
+														<FileRef Id="2">
 															<HasRelativePath Value="true" />
 															<RelativePathType Value="5" />
 															<RelativePath>
-																<RelativePathElement Id="8" Dir="Samples" />
-																<RelativePathElement Id="9" Dir="Synth" />
+																<RelativePathElement Id="6" Dir="Samples" />
+																<RelativePathElement Id="7" Dir="Synth" />
 															</RelativePath>
 															<Name Value="BBass.aif" />
 															<Type Value="1" />
@@ -11823,8 +12076,8 @@
 										<MarkerDensity Value="2" />
 										<AutoWarpTolerance Value="4" />
 										<WarpMarkers>
-											<WarpMarker Id="114" SecTime="0" BeatTime="0" />
-											<WarpMarker Id="115" SecTime="0.0149376273196907342" BeatTime="0.03125" />
+											<WarpMarker Id="112" SecTime="0" BeatTime="0" />
+											<WarpMarker Id="113" SecTime="0.0149376273196907342" BeatTime="0.03125" />
 										</WarpMarkers>
 										<SavedWarpMarkersForStretched />
 										<MarkersGenerated Value="true" />
@@ -11987,250 +12240,7 @@
 						</Recorder>
 					</FreezeSequencer>
 					<DeviceChain>
-						<Devices>
-							<FilterEQ3 Id="0">
-								<LomId Value="0" />
-								<LomIdView Value="0" />
-								<IsExpanded Value="true" />
-								<On>
-									<LomId Value="0" />
-									<Manual Value="true" />
-									<AutomationTarget Id="23631">
-										<LockEnvelope Value="0" />
-									</AutomationTarget>
-									<MidiCCOnOffThresholds>
-										<Min Value="64" />
-										<Max Value="127" />
-									</MidiCCOnOffThresholds>
-								</On>
-								<ParametersListWrapper LomId="0" />
-								<LastSelectedTimeableIndex Value="0" />
-								<LastSelectedClipEnvelopeIndex Value="0" />
-								<LastPresetRef>
-									<Value>
-										<AbletonDefaultPresetRef Id="0">
-											<FileRef>
-												<HasRelativePath Value="true" />
-												<RelativePathType Value="5" />
-												<RelativePath>
-													<RelativePathElement Id="0" Dir="Devices" />
-													<RelativePathElement Id="1" Dir="Audio Effects" />
-													<RelativePathElement Id="2" Dir="EQ Three" />
-												</RelativePath>
-												<Name Value="" />
-												<Type Value="1" />
-												<Data>
-													43003A005C00500072006F006700720061006D0044006100740061005C00410062006C0065007400
-													6F006E005C004C0069007600650020003100300020004C006900740065005C005200650073006F00
-													750072006300650073005C0043006F007200650020004C006900620072006100720079005C004400
-													6500760069006300650073005C0041007500640069006F0020004500660066006500630074007300
-													5C00450051002000540068007200650065000000
-												</Data>
-												<RefersToFolder Value="true" />
-												<SearchHint>
-													<PathHint />
-													<FileSize Value="0" />
-													<Crc Value="0" />
-													<MaxCrcSize Value="0" />
-													<HasExtendedInfo Value="false" />
-												</SearchHint>
-												<LivePackName Value="Core Library" />
-												<LivePackId Value="www.ableton.com/0" />
-											</FileRef>
-											<DeviceId Name="FilterEQ3" />
-										</AbletonDefaultPresetRef>
-									</Value>
-								</LastPresetRef>
-								<LockedScripts />
-								<IsFolded Value="false" />
-								<ShouldShowPresetName Value="true" />
-								<UserName Value="" />
-								<Annotation Value="" />
-								<SourceContext>
-									<Value>
-										<BranchSourceContext Id="0">
-											<OriginalFileRef>
-												<FileRef Id="0">
-													<HasRelativePath Value="true" />
-													<RelativePathType Value="5" />
-													<RelativePath>
-														<RelativePathElement Id="0" Dir="Devices" />
-														<RelativePathElement Id="1" Dir="Audio Effects" />
-														<RelativePathElement Id="2" Dir="EQ Three" />
-													</RelativePath>
-													<Name Value="" />
-													<Type Value="1" />
-													<Data>
-														43003A005C00500072006F006700720061006D0044006100740061005C00410062006C0065007400
-														6F006E005C004C0069007600650020003100300020004C006900740065005C005200650073006F00
-														750072006300650073005C0043006F007200650020004C006900620072006100720079005C004400
-														6500760069006300650073005C0041007500640069006F0020004500660066006500630074007300
-														5C00450051002000540068007200650065000000
-													</Data>
-													<RefersToFolder Value="true" />
-													<SearchHint>
-														<PathHint />
-														<FileSize Value="0" />
-														<Crc Value="0" />
-														<MaxCrcSize Value="0" />
-														<HasExtendedInfo Value="false" />
-													</SearchHint>
-													<LivePackName Value="Core Library" />
-													<LivePackId Value="www.ableton.com/0" />
-												</FileRef>
-											</OriginalFileRef>
-											<BrowserContentPath Value="query:AudioFx#EQ%20Three" />
-											<PresetRef>
-												<AbletonDefaultPresetRef Id="0">
-													<FileRef>
-														<HasRelativePath Value="true" />
-														<RelativePathType Value="5" />
-														<RelativePath>
-															<RelativePathElement Id="0" Dir="Devices" />
-															<RelativePathElement Id="1" Dir="Audio Effects" />
-															<RelativePathElement Id="2" Dir="EQ Three" />
-														</RelativePath>
-														<Name Value="" />
-														<Type Value="1" />
-														<Data>
-															43003A005C00500072006F006700720061006D0044006100740061005C00410062006C0065007400
-															6F006E005C004C0069007600650020003100300020004C006900740065005C005200650073006F00
-															750072006300650073005C0043006F007200650020004C006900620072006100720079005C004400
-															6500760069006300650073005C0041007500640069006F0020004500660066006500630074007300
-															5C00450051002000540068007200650065000000
-														</Data>
-														<RefersToFolder Value="true" />
-														<SearchHint>
-															<PathHint />
-															<FileSize Value="0" />
-															<Crc Value="0" />
-															<MaxCrcSize Value="0" />
-															<HasExtendedInfo Value="false" />
-														</SearchHint>
-														<LivePackName Value="Core Library" />
-														<LivePackId Value="www.ableton.com/0" />
-													</FileRef>
-													<DeviceId Name="FilterEQ3" />
-												</AbletonDefaultPresetRef>
-											</PresetRef>
-											<BranchDeviceId Value="device:ableton:audiofx:FilterEQ3" />
-										</BranchSourceContext>
-									</Value>
-								</SourceContext>
-								<OverwriteProtectionNumber Value="2561" />
-								<GainLo>
-									<LomId Value="0" />
-									<Manual Value="1" />
-									<MidiControllerRange>
-										<Min Value="0.0003162277571" />
-										<Max Value="1.99526238" />
-									</MidiControllerRange>
-									<AutomationTarget Id="23632">
-										<LockEnvelope Value="0" />
-									</AutomationTarget>
-									<ModulationTarget Id="23633">
-										<LockEnvelope Value="0" />
-									</ModulationTarget>
-								</GainLo>
-								<GainMid>
-									<LomId Value="0" />
-									<Manual Value="1" />
-									<MidiControllerRange>
-										<Min Value="0.0003162277571" />
-										<Max Value="1.99526238" />
-									</MidiControllerRange>
-									<AutomationTarget Id="23634">
-										<LockEnvelope Value="0" />
-									</AutomationTarget>
-									<ModulationTarget Id="23635">
-										<LockEnvelope Value="0" />
-									</ModulationTarget>
-								</GainMid>
-								<GainHi>
-									<LomId Value="0" />
-									<Manual Value="1" />
-									<MidiControllerRange>
-										<Min Value="0.0003162277571" />
-										<Max Value="1.99526238" />
-									</MidiControllerRange>
-									<AutomationTarget Id="23636">
-										<LockEnvelope Value="0" />
-									</AutomationTarget>
-									<ModulationTarget Id="23637">
-										<LockEnvelope Value="0" />
-									</ModulationTarget>
-								</GainHi>
-								<FreqLo>
-									<LomId Value="0" />
-									<Manual Value="250" />
-									<MidiControllerRange>
-										<Min Value="50" />
-										<Max Value="5000" />
-									</MidiControllerRange>
-									<AutomationTarget Id="23638">
-										<LockEnvelope Value="0" />
-									</AutomationTarget>
-									<ModulationTarget Id="23639">
-										<LockEnvelope Value="0" />
-									</ModulationTarget>
-								</FreqLo>
-								<FreqHi>
-									<LomId Value="0" />
-									<Manual Value="2500" />
-									<MidiControllerRange>
-										<Min Value="200" />
-										<Max Value="18000" />
-									</MidiControllerRange>
-									<AutomationTarget Id="23640">
-										<LockEnvelope Value="0" />
-									</AutomationTarget>
-									<ModulationTarget Id="23641">
-										<LockEnvelope Value="0" />
-									</ModulationTarget>
-								</FreqHi>
-								<LowOn>
-									<LomId Value="0" />
-									<Manual Value="true" />
-									<AutomationTarget Id="23642">
-										<LockEnvelope Value="0" />
-									</AutomationTarget>
-									<MidiCCOnOffThresholds>
-										<Min Value="64" />
-										<Max Value="127" />
-									</MidiCCOnOffThresholds>
-								</LowOn>
-								<MidOn>
-									<LomId Value="0" />
-									<Manual Value="true" />
-									<AutomationTarget Id="23643">
-										<LockEnvelope Value="0" />
-									</AutomationTarget>
-									<MidiCCOnOffThresholds>
-										<Min Value="64" />
-										<Max Value="127" />
-									</MidiCCOnOffThresholds>
-								</MidOn>
-								<HighOn>
-									<LomId Value="0" />
-									<Manual Value="true" />
-									<AutomationTarget Id="23644">
-										<LockEnvelope Value="0" />
-									</AutomationTarget>
-									<MidiCCOnOffThresholds>
-										<Min Value="64" />
-										<Max Value="127" />
-									</MidiCCOnOffThresholds>
-								</HighOn>
-								<Slope>
-									<LomId Value="0" />
-									<Manual Value="1" />
-									<AutomationTarget Id="23645">
-										<LockEnvelope Value="0" />
-									</AutomationTarget>
-								</Slope>
-								<FlatResponse Value="true" />
-							</FilterEQ3>
-						</Devices>
+						<Devices />
 					</DeviceChain>
 				</DeviceChain>
 			</AudioTrack>
@@ -12544,11 +12554,11 @@
 						<Sample>
 							<ArrangerAutomation>
 								<Events>
-									<AudioClip Id="3" Time="24">
+									<AudioClip Id="2" Time="8">
 										<LomId Value="0" />
 										<LomIdView Value="0" />
-										<CurrentStart Value="24" />
-										<CurrentEnd Value="40" />
+										<CurrentStart Value="8" />
+										<CurrentEnd Value="24" />
 										<Loop>
 											<LoopStart Value="0" />
 											<LoopEnd Value="8" />
@@ -12576,8 +12586,8 @@
 											<Envelopes />
 										</Envelopes>
 										<ScrollerTimePreserver>
-											<LeftTime Value="0" />
-											<RightTime Value="0.00247478531611993726" />
+											<LeftTime Value="-0.000120712620712620713" />
+											<RightTime Value="8" />
 										</ScrollerTimePreserver>
 										<TimeSelection>
 											<AnchorTime Value="0" />
@@ -12611,9 +12621,9 @@
 												<HasRelativePath Value="true" />
 												<RelativePathType Value="5" />
 												<RelativePath>
-													<RelativePathElement Id="9" Dir="Samples" />
-													<RelativePathElement Id="10" Dir="Loops" />
-													<RelativePathElement Id="11" Dir="Acoustic" />
+													<RelativePathElement Id="6" Dir="Samples" />
+													<RelativePathElement Id="7" Dir="Loops" />
+													<RelativePathElement Id="8" Dir="Acoustic" />
 												</RelativePath>
 												<Name Value="Bell Brush-70bpm.wav" />
 												<Type Value="1" />
@@ -12649,13 +12659,13 @@
 											<SourceContext>
 												<SourceContext Id="0">
 													<OriginalFileRef>
-														<FileRef Id="3">
+														<FileRef Id="2">
 															<HasRelativePath Value="true" />
 															<RelativePathType Value="5" />
 															<RelativePath>
-																<RelativePathElement Id="12" Dir="Samples" />
-																<RelativePathElement Id="13" Dir="Loops" />
-																<RelativePathElement Id="14" Dir="Acoustic" />
+																<RelativePathElement Id="9" Dir="Samples" />
+																<RelativePathElement Id="10" Dir="Loops" />
+																<RelativePathElement Id="11" Dir="Acoustic" />
 															</RelativePath>
 															<Name Value="Bell Brush-70bpm.wav" />
 															<Type Value="1" />
@@ -14957,10 +14967,10 @@
 		<Transport>
 			<PhaseNudgeTempo Value="10" />
 			<LoopOn Value="true" />
-			<LoopStart Value="6" />
-			<LoopLength Value="18" />
+			<LoopStart Value="8" />
+			<LoopLength Value="16" />
 			<LoopIsSongStart Value="false" />
-			<CurrentTime Value="14.828905273545898" />
+			<CurrentTime Value="11.923036512656006" />
 			<PunchIn Value="false" />
 			<PunchOut Value="false" />
 			<MetronomeTickDuration Value="0" />
@@ -14985,15 +14995,15 @@
 		</ScaleInformation>
 		<SmpteFormat Value="0" />
 		<TimeSelection>
-			<AnchorTime Value="11.94358558108558" />
-			<OtherTime Value="13.887171162171162" />
+			<AnchorTime Value="19.774342324342324" />
+			<OtherTime Value="22.717927905427906" />
 		</TimeSelection>
 		<SequencerNavigator>
 			<BeatTimeHelper>
-				<CurrentZoom Value="0.0451098580594983464" />
+				<CurrentZoom Value="0.254945054945054927" />
 			</BeatTimeHelper>
-			<ScrollerPos X="-1" Y="0" />
-			<ClientSize X="2407" Y="648" />
+			<ScrollerPos X="0" Y="0" />
+			<ClientSize X="2407" Y="1023" />
 		</SequencerNavigator>
 		<ViewStateLaunchPanel Value="false" />
 		<ViewStateEnvelopePanel Value="false" />
@@ -15035,7 +15045,7 @@
 		</AutoColorPickerForReturnAndMasterTracks>
 		<ViewData Value="{}" />
 		<MidiFoldIn Value="false" />
-		<MidiPrelisten Value="true" />
+		<MidiPrelisten Value="false" />
 		<UseWarperLegacyHiQMode Value="false" />
 		<VideoWindowRect Top="-2147483648" Left="-2147483648" Bottom="-2147483648" Right="-2147483648" />
 		<ShowVideoWindow Value="true" />
